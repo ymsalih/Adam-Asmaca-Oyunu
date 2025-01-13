@@ -1,0 +1,10 @@
+C:\Users\TEKNOAS\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csprojAssemblyReference.cache
+C:\Users\TEKNOAS\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.Form1.resources
+C:\Users\TEKNOAS\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.Properties.Resources.resources
+C:\Users\TEKNOAS\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csproj.GenerateResource.cache
+C:\Users\TEKNOAS\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\TEKNOAS\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.exe.config
+C:\Users\TEKNOAS\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.exe
+C:\Users\TEKNOAS\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.pdb
+C:\Users\TEKNOAS\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.exe
+C:\Users\TEKNOAS\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.pdb
